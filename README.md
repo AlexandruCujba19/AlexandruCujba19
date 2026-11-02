@@ -1,16 +1,40 @@
-## Hi there 👋
+### Hi, I'm Alexandru Cujba 👋
 
-<!--
-**AlexandruCujba19/AlexandruCujba19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+2nd-year Computer Science & Automatic Control student at **[Politehnica Bucharest (ACS)](https://acs.pub.ro/)**.
+I like building things that are fast, correct, and actually useful — from graph algorithms in C to AI tools for real businesses.
 
-Here are some ideas to get you started:
+🎯 **Looking for:** software engineering internship — Summer 2027
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 🛠️ Tech
+
+**Languages:** C · C++ · Python · HTML/CSS/JavaScript
+**Tools:** Git · Linux · Jupyter · VS Code
+**Fundamentals:** Data Structures · Algorithms · Graphs · Numerical Methods · Probability & Statistics
+
+---
+
+#### 📌 Projects
+
+| Project | What it does | Stack |
+|---|---|---|
+| [**Knowledge Graph**](https://github.com/USERNAME/knowledge-graph) | Graph engine answering `EXISTS`, `EDGE`, `NEIGHBORS`, `PATH` (BFS) and `DIJKSTRA` queries | C |
+| [**Network Routing Simulator**](https://github.com/USERNAME/routing-simulator) | SDN-style simulator computing shortest routes between nodes | C++ · Dijkstra |
+| [**Dacos Expres Service**](https://github.com/USERNAME/dacos-expres) | Landing page for an auto service with online booking (Calendly) — live client project | HTML · CSS · JS |
+| **AI Dental Assistant** *(in progress)* | WhatsApp assistant that handles appointments and questions for dental clinics | Python · LLM APIs |
+
+---
+
+#### 🏆 Activity
+
+- AI Powered Business Challenge 2026 — UPB
+- Competitive programming practice (big-integer arithmetic, graphs, greedy)
+
+---
+
+#### 📫 Contact
+
+[LinkedIn](https://linkedin.com/in/USERNAME) · alexandru212319@gmail.com
+
+🇷🇴 Romanian (native) · 🇬🇧 English
