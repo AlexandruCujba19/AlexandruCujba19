@@ -29,12 +29,14 @@ I like building things that are fast, correct, and actually useful — from grap
 #### 🏆 Activity
 
 - AI Powered Business Challenge 2026 — UPB
+- AI Bootcamp by LSAC
+- ZebraHack 4.0
 - Competitive programming practice (big-integer arithmetic, graphs, greedy)
 
 ---
 
 #### 📫 Contact
 
-[LinkedIn](https://linkedin.com/in/USERNAME) · alexandru212319@gmail.com
+[LinkedIn](https://linkedin.com/in/USERNAME) · alexandru.cujba19@gmail.com
 
-🇷🇴 Romanian (native) · 🇬🇧 English
+🇷🇴 Romanian (native) · 🇬🇧 English 
